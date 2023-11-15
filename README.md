@@ -12,7 +12,7 @@ Welcome to the Vehicle Routing Problem Solver project! This submission was devel
  - [License](#license)
 
 ## Overview
-This project tackles the Vehicle Routing Problem using a novel approach based on the differential evolution algorithm. The goal is to optimize the routing of vehicles to minimize costs and enhance efficiency. The implementation and findings are detailed in the associated Jupyter notebook.
+This project tackles the Vehicle Routing Problem using a novel approach based on the differential evolution algorithm. The goal is to optimize the routing of vehicles to minimize costs and enhance efficiency. The implementation and findings are detailed in the associated Jupyter notebook "[implementation.ipynb](./implementation.ipynb)".
 
 ## Implementation
 The differential evolution algorithm is employed as the core method to generate improved solutions for the Vehicle Routing Problem. The unique approach used in this implementation is thoroughly explained in the Jupyter notebook.
